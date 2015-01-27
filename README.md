@@ -1,6 +1,8 @@
 Android DisplayingBitmaps Sample
 ===================================
 
+Bitmap缓存，来自Android-sample源码，用来进行分析并学习
+
 Sample demonstrating how to load large bitmaps efficiently off the main UI thread,
 caching bitmaps (both in memory and on disk), managing bitmap memory and displaying
 bitmaps in UI elements such as ViewPager and ListView/GridView.
