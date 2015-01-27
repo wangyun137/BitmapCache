@@ -1,0 +1,6 @@
+/Users/wangyun/Downloads/DisplayingBitmaps/Application/build/intermediates/classes/debug
+/Users/wangyun/Downloads/DisplayingBitmaps/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-6c8bd786dcf5460d043f0a9c86972e50f2415959.jar
+/Users/wangyun/Downloads/DisplayingBitmaps/Application/build/intermediates/pre-dexed/debug/classes-e6d90483f4a044d761cc5f396eed4f6fcfac4fc3.jar
+/Users/wangyun/Downloads/DisplayingBitmaps/Application/build/intermediates/pre-dexed/debug/classes-6d10b6080d6c2519590595f811c61e6d38c46ec7.jar
+/Users/wangyun/Downloads/DisplayingBitmaps/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-47f53b38034c8c296ca5c3331dcef015a6d2cc09.jar
+/Users/wangyun/Downloads/DisplayingBitmaps/Application/build/intermediates/pre-dexed/debug/classes-41c8f3940890b40a4e9c0276e428e8d643be77ee.jar

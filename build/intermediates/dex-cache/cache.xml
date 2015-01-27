@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/wangyun/Downloads/DisplayingBitmaps/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="/Users/wangyun/Downloads/DisplayingBitmaps/Application/build/intermediates/pre-dexed/debug/classes-e6d90483f4a044d761cc5f396eed4f6fcfac4fc3.jar" />
+    </item>
+    <item
+        jar="/Users/wangyun/Downloads/DisplayingBitmaps/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/Users/wangyun/Downloads/DisplayingBitmaps/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-47f53b38034c8c296ca5c3331dcef015a6d2cc09.jar" />
+    </item>
+    <item
+        jar="/Users/wangyun/Downloads/DisplayingBitmaps/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/Users/wangyun/Downloads/DisplayingBitmaps/Application/build/intermediates/pre-dexed/debug/classes-41c8f3940890b40a4e9c0276e428e8d643be77ee.jar" />
+    </item>
+    <item
+        jar="/Users/wangyun/Downloads/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/Users/wangyun/Downloads/DisplayingBitmaps/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-6c8bd786dcf5460d043f0a9c86972e50f2415959.jar" />
+    </item>
+    <item
+        jar="/Users/wangyun/Downloads/DisplayingBitmaps/Application/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9742ced04aafd9ac97dd2c66c1aa0e32d2ae7e54">
+        <dex dex="/Users/wangyun/Downloads/DisplayingBitmaps/Application/build/intermediates/pre-dexed/debug/classes-6d10b6080d6c2519590595f811c61e6d38c46ec7.jar" />
+    </item>
+
+</items>
